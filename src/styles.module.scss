@@ -1,0 +1,12 @@
+.app{
+  padding: 24px 32px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.content{
+  flex: auto;
+  overflow-y: auto;
+}

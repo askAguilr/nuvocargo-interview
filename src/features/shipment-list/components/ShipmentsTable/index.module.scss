@@ -1,0 +1,12 @@
+.base{
+  width: 100%;
+}
+
+.rowActions{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100px;
+  width: 180px;
+  justify-content: space-between;
+}

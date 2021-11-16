@@ -1,0 +1,16 @@
+.row{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.actionsForm{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+
+.searchInput{
+  margin-right: 16px;
+  width: 240px;
+}

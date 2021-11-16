@@ -1,0 +1,17 @@
+.base{
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.unselected{
+  color: #888;
+  margin: 0px 8px;
+}
+
+.selected{
+  color: #000;
+  margin: 0px 8px 0 0;
+}

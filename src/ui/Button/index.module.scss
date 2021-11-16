@@ -1,0 +1,31 @@
+.base {
+  white-space: nowrap;
+  height: 40px;
+  position: static;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  border-radius: 4px;
+  cursor: pointer;
+  box-sizing: border-box;
+  padding: 10px 16px;
+}
+
+.primary{
+  color: #fff;
+  background: #307460;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.secondary{
+  color: #000;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
